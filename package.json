@@ -1,6 +1,6 @@
 {
   "name": "ntwitch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promise-based TwitchTV API client.",
   "author": "Max Truxa <git@maxtruxa.com>",
   "license": "MIT",
